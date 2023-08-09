@@ -2,7 +2,8 @@
   <img src="https://avatars.githubusercontent.com/u/67849137?s=280&v=4" width="300" title="SMPEarth logo" alt="Logo">
 </p>
 
-# Welcome to SMPEarth's Github Organization
+
+<h1 style="text-align: center;">Welcome to SMPEarth's Github Organization</h1>
 
 <!-- Other devs feel free to add a badge or 2 🙂 -->
 <p align="center">
