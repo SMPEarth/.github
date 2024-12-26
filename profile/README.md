@@ -15,6 +15,4 @@
     <img src="https://badgen.net/static/LucaaDev/Meowed?color=blue">
     <!-- gamer -->
     <img src="https://badgen.net/badge/Last%20Update/Never/cyan">
-    <!-- jake -->
-    <img src="https://badgen.net/static/JakeyDev/Cried/black">
 </p>
