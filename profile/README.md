@@ -11,8 +11,6 @@
     <img src="https://badgen.net/static/BlueFyreMatt/Crying?color=green">
     <!-- Nadie -->
     <img src="https://badgen.net/static/Built with/Resentment?color=red">
-    <!-- luca -->
-    <img src="https://badgen.net/static/LucaaDev/Meowed?color=blue">
     <!-- gamer -->
     <img src="https://badgen.net/badge/Last%20Update/Never/cyan">
 </p>
